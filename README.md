@@ -27,7 +27,7 @@ python translat.py
 2. Run the UI.py file to start the user interface:
 streamlit run UI.py
 
-
+********************************************************************************************************************************************
 
 # Novel Türkçe Çeviri
 
